@@ -1,7 +1,7 @@
 public class LongSwordsman {
     public static int maxHealth = 60;
-    public static int attack = 100;
-    public static int speed = 100;
+    public static int attack = 90;
+    public static int speed = 90;
     public int currentHealth;
     public int experience;
 
